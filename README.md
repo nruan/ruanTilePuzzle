@@ -1,0 +1,2 @@
+# ruanTilePuzzle
+This project is the 15 tile puzzle and it was completeed for my Advanced Software Design class. This is one of my first projects using Objective-C and XCode, and the code somewhat reflects that. It was a challenging project and helped me gain much comfort and familiarity with Objective-C and XCode. This was my first time using the storyboard and making a GUI in XCode, and I hope to see improvement in my code as I do more projects in this environment.   
